@@ -5,9 +5,12 @@ At the sametime, it also helps me to know you a little bit more :)
 PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
+I'm Chi Chen.
 
 ## Why Computer Vision? [max 500 words]
+Interested.
 
 ## What do you want to achieve in the course? [max 500 words]
+Learn more about machine leanring, deep learning, and so on.
 
 ## Due Date: Sept. 28, 2018
