@@ -5,9 +5,9 @@ At the sametime, it also helps me to know you a little bit more :)
 PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
-我是紀伯翰,電機系大四,有學過一些程式語言.
+My name is "Pohan,Chi".I major in Electrical Engineering.I am a senior student.
 ## Why Computer Vision? [max 500 words]
-我覺得電腦視覺深不可測,還有很多未知的領域等待我去發掘
+I think the method I learned from Computer vision is useful and interesting.It can spicy my life.Also,some method of computer vision in deep learning is interesting and fun,hopely I have some oppotunately can use those in the future,
 ## What do you want to achieve in the course? [max 500 words]
-想碰到deep learning 比較深一點的視覺領域
+I think I can completely know more detail on current algorithm in computer vision,and help me construct some new method in the future.I also realize detail about deep learning and machine learning.
 ## Due Date: Sept. 28, 2018
