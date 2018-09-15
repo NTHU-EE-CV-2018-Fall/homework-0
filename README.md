@@ -8,9 +8,9 @@ PS. 中文 or English are both fine.
 Hi! I'm Skyler Chen from Power Mechanical Engineering, NTHU. Glad to take the course this semester. 
 
 ## Why Computer Vision? [max 500 words]
-I major in DSP and a little bit AI, so I'm interesting in signal processing and it's application like speech recognition or computer vision. 
+I major in DSP and a little bit AI. I am interest in how to deal with speech recognition, patternrecognition and computer vision.  
 
 ## What do you want to achieve in the course? [max 500 words]
-I want to learn the utmost skill and concept of Computer Vision, and improve my programming skill also.
+I want to learn the utmost skill and concept of Computer Vision, and improve my programming skill.
 
 ## Due Date: Sept. 28, 2018
