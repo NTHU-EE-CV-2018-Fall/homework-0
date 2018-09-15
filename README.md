@@ -5,12 +5,14 @@ At the sametime, it also helps me to know you a little bit more :)
 PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
-Hello everyone, my name is Yi-Ren Chen. My hobby is to 
+Hello everyone, my name is Yi-Ren Chen.
+I am a master student.
+And my hobbies are to watch the animates and read the novels.
 
 ## Why Computer Vision? [max 500 words]
-CV is so cool, and it is useful for my research topic.
+CV is so cool, and it is useful for my research.
 
 ## What do you want to achieve in the course? [max 500 words]
-Above A-
+I hope I can get a grade of A- or above.
 
 ## Due Date: Sept. 28, 2018
