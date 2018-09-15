@@ -14,8 +14,11 @@ As my self-introduction, I want to learn more about machine learning. In my opin
 
 ## What do you want to achieve in the course? [max 500 words]
 1.Learn the technique of building and training ML model.
+
 2.Learn how to preprocess different type of data.
+
 3.Learn the understanding of CV from Professor and Assistant.
+
 4.Apply the technique I have learned in class in other fields.
 
 
