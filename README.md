@@ -10,5 +10,5 @@ My interest is street-workout, travel, gourmet and do something exciting,just li
 ## Why Computer Vision? [max 500 words]
 I am very interested in Machine Learning and CV is a very important part of ML,so i want to learn more about it to enhance my ability.And it may help me when I interview jobs in the future. 
 ## What do you want to achieve in the course? [max 500 words]
-I want to learn more skill about how to upgrade the performance and more understanding about Computer Vision that can improve my ability to help me complete my research in the future.
+I want to learn more skill about how to upgrade the performance with ML DL and more understanding about Computer Vision that can improve my ability to help me complete my research in the future.
 ## Due Date: Sept. 28, 2018
