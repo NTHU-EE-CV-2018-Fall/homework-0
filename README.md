@@ -20,12 +20,12 @@ PS. 中文 or English are both fine.
 
 ## What do you want to achieve in the course? [max 500 words]
 1. 了解computer vision 需要的物理模型及數學模型, 包括
-* 傳統的特徵點定義及比對
-* 3D 重建
-* 基本影像前處理方法
+	* 傳統的特徵點定義及比對
+	* 3D 重建
+	* 基本影像前處理方法
 1. 了解 machine leaning 工具於 computer vision, 包括
-* 基於 ML/DL 的特徵值截取
-* 基於 ML/DL 的辨識方法
-* 有機會能學習到如何讓機器理解看到的場景
+	* 基於 ML/DL 的特徵值截取
+	* 基於 ML/DL 的辨識方法
+	* 有機會能學習到如何讓機器理解看到的場景
 
 ## Due Date: Sept. 28, 2018
