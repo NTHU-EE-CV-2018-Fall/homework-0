@@ -5,10 +5,10 @@ At the sametime, it also helps me to know you a little bit more :)
 PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
-系所：清大電機所碩一
-姓名：陳麒皓
-學號：106061516
-github：https://github.com/howard19950724
+系所：清大電機所碩一\n
+姓名：陳麒皓\n
+學號：106061516\n
+github：https://github.com/howard19950724\n
 
 ## Why Computer Vision? [max 500 words]
 就以機器學習的成果來看，視覺處理是最為直觀且在實際應用於市場上最為直接的一項技術。之前接觸過許多關於電腦特效、圖學等等的領域，也接觸過機器學習，也涉略一點點的計算機視覺，但仍未深入此領域，想熟知此領域更多的內涵。
