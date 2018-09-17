@@ -5,7 +5,7 @@ At the sametime, it also helps me to know you a little bit more :)
 PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
-系所：清大電機所碩一 /n
+系所：清大電機所碩一 \r
 姓名：陳麒皓
 學號：106061516
 github：https://github.com/howard19950724
