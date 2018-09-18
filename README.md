@@ -2,8 +2,7 @@
 
 ## Brief self-introduction
 Hi, my name is 郭庭妤. I'm a first year student in ISA department.
-I was major in Information Ststem when I was an undergraduate, 
-so it's very exciting and challenging after I came to NTHU!
+I was major in Information Ststem when I was an undergraduate, so it's very exciting and challenging after I came to NTHU!
 
 ## Why Computer Vision? 
 My advisor's research field is computer graphic and multimedia.
