@@ -1,0 +1,7 @@
+Brief self-introduction [max 500 words]
+大家好我是來自動機系碩士一年級的朱翊豪，希望可以多學習關於compute vision的相關知識
+
+Why Computer Vision? [max 500 words]
+想要應用於機器人領域
+What do you want to achieve in the course? [max 500 words]
+做到視覺辨識的基礎應用
