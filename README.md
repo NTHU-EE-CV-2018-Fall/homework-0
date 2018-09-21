@@ -11,3 +11,8 @@ PS. 中文 or English are both fine.
 ## What do you want to achieve in the course? [max 500 words]
 
 ## Due Date: Sept. 28, 2018
+
+
+
+
+666666666666666666
