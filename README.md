@@ -6,8 +6,14 @@ PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
 
+NTHU CS undergraduate senior
+
 ## Why Computer Vision? [max 500 words]
 
+You know too much
+
 ## What do you want to achieve in the course? [max 500 words]
+
+It's a secret
 
 ## Due Date: Sept. 28, 2018
