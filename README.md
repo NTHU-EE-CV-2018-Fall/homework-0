@@ -6,7 +6,7 @@ PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
 Hi all,
-My name is Ching-Hui Liao and I graduated from NTHU electronic engineering.
+my name is Ching-Hui Liao and I graduated from NTHU electronic engineering.
 Now, I am interested in machine learning and deep learning, so I desire to do 
 more researches in these fields.
 ## Why Computer Vision? [max 500 words]
