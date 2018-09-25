@@ -1,0 +1,9 @@
+
+## Brief self-introduction [max 500 words]
+大家好我是朱翊豪，機械系碩一，專長是機構設計，馬達應用，電路板設計，會基礎的C++
+## Why Computer Vision? [max 500 words]
+應為想要結合電腦視覺應用於控制機械手臂
+## What do you want to achieve in the course? [max 500 words]
+希望可以做到手勢的識別基礎。我對這個應用很有興趣: https://www.youtube.com/watch?v=RQ-kAoaNc60，但要在課程中做到應該很困難，目前目標是做這個https://medium.com/@muehler.v/simple-hand-gesture-recognition-using-opencv-and-javascript-eb3d6ced28a0
+
+## Due Date: Sept. 28, 2018
