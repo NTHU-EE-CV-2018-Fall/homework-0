@@ -6,8 +6,10 @@ PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
 
-I'm Albert Ning-Hsu, Wang.\n
-I'm a graduate student in NTHU EE.\n
+I'm Albert Ning-Hsu, Wang.
+
+I'm a graduate student in NTHU EE.
+
 I'm currently doing research on computer vision about 360 stereo depth estimation.
 
 ## Why Computer Vision? [max 500 words]
