@@ -10,4 +10,5 @@ PS. 中文 or English are both fine.
 因為CV感覺很有趣
 ## What do you want to achieve in the course? [max 500 words]
 努力學習
+0.0
 ## Due Date: Sept. 28, 2018
