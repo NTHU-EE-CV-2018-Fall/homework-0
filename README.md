@@ -12,10 +12,10 @@ PS. 中文 or English are both fine.
 
 ## Why Computer Vision? [max 500 words]
 
-可應用於研究領域
+可應用於研究領域。
 
 ## What do you want to achieve in the course? [max 500 words]
 
-學習如何訓練出一個有趣的模型
+學習如何訓練出一個有趣的模型。
 
 ## Due Date: Sept. 28, 2018
