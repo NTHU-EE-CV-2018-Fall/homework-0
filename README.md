@@ -1,4 +1,3 @@
-# homework-0
 PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
