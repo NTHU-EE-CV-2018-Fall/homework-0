@@ -6,8 +6,14 @@ PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
 
+我是理學院學士班大三學生，林奕騏
+
 ## Why Computer Vision? [max 500 words]
 
+覺得很酷
+
 ## What do you want to achieve in the course? [max 500 words]
+
+學到東西
 
 ## Due Date: Sept. 28, 2018
